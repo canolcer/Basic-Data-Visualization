@@ -1,0 +1,46 @@
+----------------------
+24/08/2024 - Üst Vücut
+Pulldown machine: 30 30 35 35
+Seated Cable Row: 30 35 35 40
+Bench press: 0 10 10 20
+Pec Fly: 25 30 35
+Shoulder press: 5 7.5 7.5 10
+Omuz yana açma: 2.5 5 7.5
+Triceps push down: 27 32 36
+Cable biceps curl: 27 32 36
+---------------
+26/08/2024 - Alt Vücut
+Leg press: 60 80 80 90
+Leg extension: 35 40 40 45
+Dambıl ile eğilme: 5 5 7.5 7.5
+Leg curl: 35 40 45
+Hyperextension: 12 12 12
+Dambıl ile yükselme: 2.5x25 5x20 7.5x15
+----------
+28/08/2024 - Üst Vücut
+Pulldown machine: 30 35 35 40
+Seated Cable Row: 30 35 35 40
+Bench press: 10 10 10 20
+Pec Fly: 25 30 35
+Shoulder press: 5 7.5 7.5 10
+Omuz yana açma: 2.5 5 7.5
+Triceps push down: 32 36 41
+Cable biceps curl: 32 36 41
+---------
+01/09/2024 - Üst Vücut
+Pulldown machine: 30 30 35 40
+Seated Cable Row: 30 30 35 40
+Bench press: 10 10 10 20
+Pec Fly: 30 35 35
+Shoulder press: 5 7.5 7.5 10
+Omuz yana açma: 2.5 5 7.5
+Triceps push down: 32 36 41
+Biceps curl: 32 36 41
+-----------
+03/09/2024 - Alt Vücut
+Leg press: 70 80 80 90
+Leg extension: 40 45 45 50
+Dambıl ile eğilme: 7.5 7.5 10 10
+Leg curl: 40 45 50
+Hyperextension: 12 12 12
+Dambıl ile yükselme: 35 30 25
